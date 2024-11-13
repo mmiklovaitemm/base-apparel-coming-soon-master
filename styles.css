@@ -118,11 +118,6 @@ button:hover {
     background: linear-gradient(to right, hsl(0, 90%, 92%), hsl(0, 90%, 90%));
 }
 
-.attribution {
-    padding-top: 20px;
-}
-
-
 @media only screen and (max-width: 1068px) {
     body {
         background-color: hsl(0, 100%, 98%);
@@ -200,10 +195,6 @@ button:hover {
         margin-left: -80px;
         margin-top: 0;
         padding: 0;
-    }
-
-    .attribution {
-        display: none;
     }
 }
 
@@ -341,9 +332,5 @@ button:hover {
         margin-left: -80px;
         padding: 0;
         margin-top: 0;
-    }
-
-    .attribution {
-        display: none;
     }
 }
